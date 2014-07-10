@@ -28,4 +28,20 @@ The use cases for site administrator.
 
 **MediaWiki File Structure**
 
+**Plan for Phase One**
+
+The first phase we will focus on the file upload function.
+
+- easy to use upload form
+- support multiple files upload
+- support drag and drop
+
+The initial upload form should have the following:
+
+- Category: Name of Category separate by comma (,)
+- Text?
+- Comment?
+- plupload file selection button
+- File upload status prograss, check up
+
 .. _Plupload: https://github.com/moxiecode/plupload
