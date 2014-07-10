@@ -44,4 +44,9 @@ The initial upload form should have the following:
 - plupload file selection button
 - File upload status prograss, check up
 
+The MediaWiki_ extension MassEditRegex_ will give some ideas about
+how to perform a single edit across multiple pages.
+
 .. _Plupload: https://github.com/moxiecode/plupload
+.. _MediaWiki: http://www.mediawiki.org
+.. _MassEditRegex: http://www.mediawiki.org/wiki/Extension:MassEditRegex
