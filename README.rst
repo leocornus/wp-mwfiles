@@ -1,5 +1,5 @@
 MediaWiki File Manager in WordPress
-===================================
+-----------------------------------
 
 The WordPress_ plugin **wp-mwfiles** is trying to provide
 a comprehensive toolkit for WordPress blog to manage media files
@@ -13,8 +13,13 @@ It will help user to easily:
 #. create photo gallary for images.
 #. play videos
 
+Change Logs
+-----------
+
+- `Initial Design <docs/000-Initial-Design.rst>`_
+
 License
-=======
+-------
 
 GNU General Public License Version 2
 
